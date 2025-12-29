@@ -25,6 +25,5 @@
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /> 
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="NestJS" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg" alt="Prisma" height="50" />
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /> 
 </div>
